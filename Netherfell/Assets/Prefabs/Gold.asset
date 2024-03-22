@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b778f112b7dbab1419be2dca71a69b01, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  lootSprite: {fileID: -923276115, guid: 4b75c482b998e6e4aa286ab590042396, type: 3}
+  lootName: Gold
+  dropChance: 100
+  stackable: 1
+  maxStackSize: 9999
